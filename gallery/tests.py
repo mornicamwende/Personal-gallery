@@ -1,7 +1,7 @@
 from django.test import TestCase
 from .models import Image, Location, categories
 
-# Create your tests here
+
 
 class ImageTestClass(TestCase):
     # Set up method
