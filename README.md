@@ -1,13 +1,14 @@
 # CALIFONIA PHOTO GALLERY
 ## Author
-* Made by,   [![MORNICA MWENDE]()]
+* Made by,   [MORNICA MWENDE]
 ## Description
 * Califonia Photo Gallery is a website that stores your photo. The website allows you to add photos with their description and place taken in the admin Panel. Califonia Photo Gallery deals with various foods drinks fruits and junks
 ## Setup/Installation requirements
 1. Clone  the repository from github, https://github.com/mornicamwende/Personal-gallery
-3. cd into the project folder and open in text editor. 4. install virtual environment then activate it
-4. Download the Dependencies by running pip freeze > -r requirements.txt
-4. Run python3 manage.py runserver to run the app
+2. cd into the project folder and open in text editor. 
+3. install virtual environment then activate it
+5. Download the Dependencies by running pip freeze > -r requirements.txt
+6. Run python3 manage.py runserver to run the app
 ## Behavior Driven Development (BDD)
 1. Each image displays it's category and it's brief description on the home page
 2. if an image is clicked it displays  it's category and the location it was taken
@@ -24,5 +25,5 @@
 ## Live Link
 https://califoniagal.herokuapp.com/
 ## License
-[![License: MIT]
-Copyrite (c) 2020 Mornica Mwende
+[License: MIT]
+Copyright (c) 2020 Mornica Mwende .
