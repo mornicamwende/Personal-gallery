@@ -2,7 +2,7 @@
 import os
 import dj_database_url
 import django_heroku
-# from decouple import config,Csv
+from decouple import config,Csv
 
 
 
@@ -19,7 +19,7 @@ import django_heroku
 SECRET_KEY = 'morh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG =False
 
 ALLOWED_HOSTS = []
 
